@@ -1,6 +1,6 @@
 # DonkeyDupe
 
-A recreation of [2b2t Donkey Dupe](https://www.youtube.com/watch?v=U_u7nYokzSU) glitch.
+A datapack that recreates [2b2t Donkey Dupe](https://www.youtube.com/watch?v=U_u7nYokzSU) glitch.
 
 ## How To Use
 
